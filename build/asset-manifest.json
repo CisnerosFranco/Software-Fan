@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CisnerosFranco/Software-Fan/static/css/main.541393df.css",
+    "main.js": "/CisnerosFranco/Software-Fan/static/js/main.731c7bf9.js",
+    "index.html": "/CisnerosFranco/Software-Fan/index.html",
+    "main.541393df.css.map": "/CisnerosFranco/Software-Fan/static/css/main.541393df.css.map",
+    "main.731c7bf9.js.map": "/CisnerosFranco/Software-Fan/static/js/main.731c7bf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.541393df.css",
+    "static/js/main.731c7bf9.js"
+  ]
+}
